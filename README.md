@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Javascript, React.js, and working with APIs**
 
+- 👨‍💻 All of my projects are available at [https://github.com/demarcogray81](https://github.com/demarcogray81)
+
 - 💬 Ask me about **What's my favorite thing to work on when creating websites.**
 
 - 📫 How to reach me **demarcogray81@gmail.com**
