@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+My name is DeMarco Gray and i am currently attending an online bootcamp named TripleTen. I am studying to become a software developer.
+
 **demarcogray81/demarcogray81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,5 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about what's my favorite thing to work on when creating websites.
 - 📫 How to reach me: Email: demarcogray81@gmail.com
-- ⚡ Fun fact: I love Video games and anime
--->
+- ⚡ Fun fact: I love Video games and anime!
